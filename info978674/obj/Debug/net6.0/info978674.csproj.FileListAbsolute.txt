@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\bin\Debug\net6.0\info978674.exe
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\bin\Debug\net6.0\info978674.deps.json
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\bin\Debug\net6.0\info978674.runtimeconfig.json
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\bin\Debug\net6.0\info978674.dll
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\bin\Debug\net6.0\info978674.pdb
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\info978674.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\info978674.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\info978674.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\info978674.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\info978674.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\info978674.dll
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\refint\info978674.dll
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\info978674.pdb
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\info978674.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\REPO008-2\EX094852\info978674\obj\Debug\net6.0\ref\info978674.dll
